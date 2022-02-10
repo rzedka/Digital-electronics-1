@@ -13,7 +13,7 @@ Alternatively, for H1 and H2, an underline-ish style:
 Alt-H1
 ======
 
-Alt-H2
+Alt-H2   
 ------
 
 3. According to the simulation, complete the table with logic values.
