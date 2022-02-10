@@ -33,4 +33,4 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/rzedka/VUTBR_logo.png "Logo Title Text 2"
+[logo]: https://github.com/rzedka/Digital-electronics-1/VUTBR_logo.png "Logo Title Text 2"
