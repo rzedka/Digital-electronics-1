@@ -14,7 +14,7 @@ begin
     f_o      <= -- WRITE YOUR CODE HERE
     f_nand_o <= -- WRITE YOUR CODE HERE
     f_nor_o  <= -- WRITE YOUR CODE HERE
-end architecture dataflow;
+end architecture dataflow;  
 ```
 
 3. Complete table with logic functions' values:
