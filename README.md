@@ -16,6 +16,20 @@ Alt-H1
 Alt-H2
 ------
 
+3. According to the simulation, complete the table with logic values.
+
+   | **c** | **b** |**a** | **f(c,b,a)** | **f_NAND(c,b,a)** | **f_NOR(c,b,a)** |
+   | :-: | :-: | :-: | :-: | :-: | :-: |
+   | 0 | 0 | 0 |  |  |  |
+   | 0 | 0 | 1 |  |  |  |
+   | 0 | 1 | 0 |  |  |  |
+   | 0 | 1 | 1 |  |  |  |
+   | 1 | 0 | 0 |  |  |  |
+   | 1 | 0 | 1 |  |  |  |
+   | 1 | 1 | 0 |  |  |  |
+   | 1 | 1 | 1 |  |  |  |
+
+
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
