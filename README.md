@@ -29,3 +29,8 @@ Emphasis, aka italics, with *asterisks* or _underscores_.
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
 [I'm an inline-style link](https://www.google.com)
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/rzedka/VUTBR_logo.png "Logo Title Text 2"
